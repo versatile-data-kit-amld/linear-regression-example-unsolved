@@ -104,7 +104,7 @@ We will cover:
 * https://medium.com/codex/step-by-step-guide-to-simple-and-multiple-linear-regression-in-python-867ac9a30298
 
 ### VDK 
-Versatile Data Kit feature allows you to implement automated pull ingestion and batch data processing.
+The Versatile Data Kit framework allows you to implement automated pull ingestion and batch data processing.
 
 #### Create the Data Job Files
 
