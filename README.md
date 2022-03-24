@@ -160,10 +160,9 @@ Through this scenario, you created a data job, which:
 * Built and tested a linear regression model
 * Built an interactive Streamlit dashboard, which showcased your model's predictive ability
 
-Congrats!
+**Congrats!**
 
 ## Authored By
 
-Versatile Data Kit Team.
+[Versatile Data Kit Team](https://github.com/vmware/versatile-data-kit/wiki/Introduction)
 
-[GitHub](https://github.com/vmware/versatile-data-kit) 
