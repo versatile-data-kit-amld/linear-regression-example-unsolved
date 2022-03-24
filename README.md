@@ -163,5 +163,5 @@ Through this scenario, you created a data job, which:
 **Congrats!**
 
 
-[Versatile Data Kit](https://github.com/vmware/versatile-data-kit/wiki/Introduction)
+Lean more about [Versatile Data Kit](https://github.com/vmware/versatile-data-kit/wiki/Introduction).
 
