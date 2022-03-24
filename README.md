@@ -162,6 +162,4 @@ Through this scenario, you created a data job, which:
 
 **Congrats!**
 
-
-Lean more about [Versatile Data Kit](https://github.com/vmware/versatile-data-kit/wiki/Introduction).
-
+[> Go back to main page of the Workshop.](https://github.com/versatile-data-kit-amld/workshop)
