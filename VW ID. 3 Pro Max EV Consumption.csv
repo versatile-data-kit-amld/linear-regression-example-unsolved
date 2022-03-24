@@ -1,4 +1,4 @@
-Trip,Date,Location,Tyres,Temperature (Start) (¡C),Temperature (End) (¡C),Distance (km),Duration (minutes),Average Speed (km/h),Average Consumption (kWh/100km),Charge Level (Start) (%),Charge Level (End) (%), A/C (¡C), Heated Front Seats (Level 0-3), Mode
+Trip,Date,Location,Tyres,Temperature (Start) (Â¡C),Temperature (End) (Â¡C),Distance (km),Duration (minutes),Average Speed (km/h),Average Consumption (kWh/100km),Charge Level (Start) (%),Charge Level (End) (%), A/C (Â¡C), Heated Front Seats (Level 0-3),Mode
 1,2021-02-08,Istanbul,Bridgestone 215/45 R20 LM32,14,17.5,31,35,53,14.3,81,73,OFF,0,ECO
 2,2021-02-08,Istanbul,Bridgestone 215/45 R20 LM32,19.5,19,32,52,37,14,73,65,OFF,0,ECO
 3,2021-02-10,Istanbul,Bridgestone 215/45 R20 LM32,15,12.5,31,37,51,17.2,81,72,22,0,COMFORT
